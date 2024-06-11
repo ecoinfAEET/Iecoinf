@@ -7,6 +7,7 @@ website:
   twitter-card: true
   # site-url: https://ComputationalEcology.github.io
   description: "I Jornadas de Ecoinformática de la AEET que se celebraran en Alcalá de Henares entre el 24 y 25 de octubre de 2024"
+  back-to-top-navigation: true
   navbar:
     left:
       - href: index.qmd
@@ -26,6 +27,19 @@ website:
     right:
       - icon: rss
         href: index.xml
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: 
+      - icon: twitter
+        href: https://twitter.com/ecoinf_aeet
+      - href: https://ecoinfaeet.github.io/website/
+        text: Ecoinformática-AEET
+      - icon: github
+        href: https://github.com/ecoinfAEET
+    background: forestgreen
+
 
 format:
   html:
@@ -33,3 +47,5 @@ format:
     css: styles.css
     toc: true
     linkcolor: rebeccapurple
+
+
