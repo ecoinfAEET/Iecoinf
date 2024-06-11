@@ -1,0 +1,16 @@
+---
+title: "Fechas clave"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+-   23 septiembre 2024: Plazo límite para el registro en las jornadas (hasta completar aforo)
+
+-   8 septiembre 2024: Plazo límite para envío de resúmenes de comunicaciones
+
+-   27 septiembre 2024: Fecha aproximada de aviso de comunicaciones aceptadas
+
+-   24 a 25 de octubre 2024: Fecha de las jornadas
+
+-    26 de octubre 2024: Excursión de campo

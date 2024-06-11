@@ -1,0 +1,22 @@
+---
+title: "Julen Astigarraga"
+sortby: "2"
+image: https://avatars.githubusercontent.com/u/36412735?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: RG
+      href: https://www.researchgate.net/profile/Julen-Astigarraga
+    - icon: github
+      text: github
+      href: https://www.github.com/Julenasti
+    - icon: X
+      text: X
+      href: https://x.com/J_astigarraga
+---
+
+:::{#person-profile}
+:::
