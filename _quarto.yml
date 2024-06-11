@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Iecoinf"
+  # title: "Iecoinf"
   twitter-card: true
   site-url: https://ecoinf.quarto.pub/iecoinf/
   description: "I Jornadas de Ecoinformática de la AEET que se celebraran en Alcalá de Henares entre el 24 y 25 de octubre de 2024"
