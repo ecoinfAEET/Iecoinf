@@ -1,0 +1,19 @@
+---
+# title: "I Jornadas de Ecoinformática de la AEET"
+---
+
+![](images/Logo_ecoinf_10.jpg){fig-align="center"}
+
+![](images/plaza-de-san-diego-universidad-1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+Las I Jornadas de Ecoinformática de la AEET se celebrarán en **Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024**. La sede de las jornadas será XXX (poner enlace google maps).
+
+El propósito principal de las jornadas es crear un espacio para que los miembros del grupo de Ecoinformática de la AEET y otras personas interesadas en manejo y análisis de datos, modelización o programación, puedan intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.
+
+Las jornadas incluirán ponencias, talleres prácticos y un hackathon. El objetivo de los talleres será mejorar las habilidades en la creación y optimización de páginas web. Para el aprovechamiento de los talleres se recomienda tener un conocimiento básico de programación en R (y conocer el entorno de RStudio). Un hackathon es un evento similar a un sprint de programación en el que personas implicadas en el desarrollo de software se reúnen durante un breve periodo de tiempo con el propósito de programar en colaboración, normalmente en código abierto. En este caso el hackathon tendrá como objetivo actualizar la página web del grupo de ecoinformática.
+
+Queremos que las I Jornadas de Ecoinformática sean accesibles para todo tipo de público, ya sean investigadores, estudiantes o aficionados que dediquen su tiempo libre a la ecoinformática, independientemente de su nivel de experiencia. Aspiramos a crear un entorno inclusivo donde la motivación por aprender en el campo de la ecoinformática sea el principal vínculo entre todos los participantes.
+
+------------------------------------------------------------------------

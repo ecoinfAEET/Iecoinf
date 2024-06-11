@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Iecoinf"
+  twitter-card: true
+  # site-url: https://ComputationalEcology.github.io
+  description: "I Jornadas de Ecoinformática de la AEET que se celebraran en Alcalá de Henares entre el 24 y 25 de octubre de 2024"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: programa.qmd
+        text: Programa de las jornadas
+      - href: programa.qmd
+        text: Inscripción
+      - href: index.qmd
+        text: Alojamiento
+      - href: index.qmd
+        text: Envío de resúmenes
+      - href: index.qmd
+        text: Comité organizador
+      - href: index.qmd
+        text: Fechas clave
+    right:
+      - icon: rss
+        href: index.xml
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    linkcolor: rebeccapurple
