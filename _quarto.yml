@@ -16,10 +16,10 @@ website:
         text: Programa de las jornadas
       - href: inscripcion.qmd
         text: Inscripción
-      - href: alojamiento.qmd
-        text: Alojamiento
       - href: resumenes.qmd
         text: Envío de resúmenes
+      - href: alojamiento.qmd
+        text: Alojamiento
       - href: comite.qmd
         text: Comité organizador
       - href: fechas.qmd

@@ -15,14 +15,6 @@ Tarifas de inscripción:
 
 \*AEET/AIL/SEEEE/SIBECOL/SPECO
 
-**Formulario registro: link**
+Formulario de asistencia: [rellena este formulario](https://docs.google.com/forms/d/e/1FAIpQLSc7al4GefetfpHVb6i5QhIbiY5ZMdHv4yohMvvbv5KvKQmBkA/viewform) para saber si estarías interesado en el alojamiento y participación en las actividades paralelas. A medida que sepamos la asistencia potencial ofreceremos más información a los participantes.
 
--   Estadío en carrera investigadora (estudiante, predoc, postdoc, IP, otro…)
-
--   Alojamiento - si/no - selección de 1 o varios días: miércoles 23, jueves 24, viernes 25
-
--   Cena - si/no
-
--   Visita guiada - si/no
-
--   Indicar al final que la inscripción no es segura hasta que no se realice el pago
+<!-- rellenar de cada pregunta objetivo + contexto -->
