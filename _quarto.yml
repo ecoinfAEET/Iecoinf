@@ -35,13 +35,14 @@ website:
         text: Ecoinformática-AEET
       - icon: github
         href: https://github.com/ecoinfAEET
-    background: rgb(44, 62, 80)
+    background: rgb(120, 194, 173)
 
 format:
   html:
-    theme: flatly
+    theme: minty
     css: styles.css
     toc: true
     linkcolor: rebeccapurple
+    page-layout: full
 
 
