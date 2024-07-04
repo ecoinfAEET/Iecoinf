@@ -1,14 +1,18 @@
 ---
 title: "I Jornadas de Ecoinformática de la AEET"
+subtitle: "Análisis crítico y calidad de la información en la era del big data y la inteligencia artificial"
 ---
 
 ![](images/plaza-de-san-diego-universidad-1.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
-Las I Jornadas de Ecoinformática de la AEET se celebrarán en **Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024**. La sede de las jornadas será [https://maps.app.goo.gl/5BtLbRRfLgmjFvP29](https://maps.app.goo.gl/2CRoNPWiuwyFVQZ6A).
+Las I Jornadas de Ecoinformática de la AEET se celebrarán en **Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024**. La sede de las jornadas será en la Universidad de Alcalá. 
+<!--[https://maps.app.goo.gl/5BtLbRRfLgmjFvP29](https://maps.app.goo.gl/2CRoNPWiuwyFVQZ6A).-->
 
 El propósito principal de las jornadas es crear un espacio para que los miembros del grupo de Ecoinformática de la AEET y otras personas interesadas en manejo y análisis de datos, modelización o programación, puedan intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.
+
+El auge de la inteligencia artificial, la accesibilidad a datos masivos (ciencia ciudadana, sensores remotos, etc.) y la integración de softwares libres y gratuitos en el manejo y análisis de datos ecológicos está llevando a una capacidad de análisis sin precedentes en ecología. En estas jornadas queremos promover el debate y la reflexión sobre la calidad de los datos, el uso crítico de las nuevas metodologías y la convivencia de éstas con análisis estadísticos más clásicos.
 
 Las jornadas incluirán ponencias, talleres prácticos y un hackathon. El objetivo de los talleres será mejorar las habilidades en la creación y optimización de páginas web. Para el aprovechamiento de los talleres se recomienda tener un conocimiento básico de programación en R (y conocer el entorno de RStudio). Un hackathon es un evento similar a un sprint de programación en el que personas implicadas en el desarrollo de software se reúnen durante un breve periodo de tiempo con el propósito de programar en colaboración, normalmente en código abierto. En este caso el hackathon tendrá como objetivo actualizar la página web del grupo de ecoinformática.
 

@@ -1,0 +1,22 @@
+---
+title: "Anabel Forte"
+sortby: "1"
+image: https://i0.wp.com/anabelforte.com/wp-content/uploads/2020/12/122848265_10224077632156708_3074942595966707382_n.jpg?resize=300%2C300&ssl=1
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: Web
+      href: https://anabelforte.com/
+    # - icon: github
+    #   text: github
+    #   href: https://github.com/Pakillo
+    - icon: X
+      text: X
+      href: https://x.com/AnaBayes
+---
+
+:::{#person-profile}
+:::

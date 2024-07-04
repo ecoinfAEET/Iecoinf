@@ -1,6 +1,16 @@
 ---
+toc: false
 listing:
-    contents: "comite/*.qmd"
+  - id: organizador
+    contents: "comite/organizador/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 4
+    sort: sortby
+    fields: [image, title, subtitle]
+    grid-item-align: center
+  - id: invitados
+    contents: "comite/invitados/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 4
@@ -8,3 +18,13 @@ listing:
     fields: [image, title, subtitle]
     grid-item-align: center
 ---
+
+## Comité organizador
+
+:::{#organizador}
+:::
+
+## Ponencias invitadas
+
+:::{#invitados}
+:::
