@@ -24,6 +24,8 @@ website:
         text: Comités
       - href: fechas.qmd
         text: Fechas clave
+      - href: contacto.qmd
+        text: Contacto
   search: 
     location: navbar
     type: textbox
