@@ -5,9 +5,9 @@ editor:
     wrap: sentence
 ---
 
--   8 septiembre 2024: Plazo límite para envío de resúmenes de comunicaciones
+-   13 septiembre 2024: Plazo límite para envío de resúmenes de comunicaciones
 
--   16-20 septiembre 2024: Fecha aproximada de aviso de comunicaciones aceptadas
+-   23-27 septiembre 2024: Fecha aproximada de aviso de comunicaciones aceptadas
 
 -   23 septiembre 2024: Plazo límite para el registro en las jornadas (hasta completar aforo)
 
