@@ -7,8 +7,7 @@ subtitle: "Análisis crítico y calidad de la información en la era del big dat
 
 ------------------------------------------------------------------------
 
-Las I Jornadas de Ecoinformática de la AEET se celebrarán en **Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024**. La sede de las jornadas será la Universidad de Alcalá. 
-<!--[https://maps.app.goo.gl/5BtLbRRfLgmjFvP29](https://maps.app.goo.gl/2CRoNPWiuwyFVQZ6A).-->
+Las I Jornadas de Ecoinformática de la AEET se celebrarán en **Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024** en la [Escuela de Arquitectura del campus histórico](https://arquitectura.uah.es/es/escuela/presentacion/) de la Universidad de Alcalá ([localización](https://arquitectura.uah.es/es/escuela/localizacion/) y [enlace a google maps](https://maps.app.goo.gl/hXavVJo8dSgSPsKM8)).
 
 El propósito principal de las jornadas es crear un espacio para que los miembros del grupo de Ecoinformática de la AEET y otras personas interesadas en manejo y análisis de datos, modelización o programación, puedan intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.
 
