@@ -1,0 +1,22 @@
+---
+title: "Antonio J. Pérez-Luque"
+sortby: "3"
+image: https://ajperezluque.com/images/yo.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: Web
+      href: https://ajperezluque.com/
+    - icon: github
+      text: github
+      href: https://github.com/ajpelu
+    - icon: X
+      text: X
+      href: https://x.com/ajpelu
+---
+
+:::{#person-profile}
+:::

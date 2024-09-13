@@ -1,0 +1,22 @@
+---
+title: "Virginia Domínguez-García"
+sortby: "2"
+image: https://avatars.githubusercontent.com/u/35924793?v=4
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: RG
+      href: https://www.researchgate.net/profile/Virginia-Dominguez-Garcia
+    - icon: github
+      text: github
+      href: https://github.com/domgarvir
+    - icon: X
+      text: X
+      href: https://x.com/virdomgar
+---
+
+:::{#person-profile}
+:::
