@@ -3,7 +3,7 @@ title: "I Jornadas de Ecoinformática de la AEET"
 subtitle: "Análisis crítico y calidad de la información en la era del big data y la inteligencia artificial"
 ---
 
-![](images/plaza-de-san-diego-universidad-1.png){fig-align="center"}
+![](images/plaza-de-san-diego-universidad-1.png){fig-align="center" width="822"}
 
 ------------------------------------------------------------------------
 
@@ -19,12 +19,8 @@ Queremos que las I Jornadas de Ecoinformática sean accesibles para todo tipo de
 
 Colaboran:
 
-![](https://secuah.web.uah.es/2017/wp-content/uploads/2017/02/image4.png){fig-align="left" width=20%}
-![](https://imscdn.abcore.org/r/aeet.org/w300-h143/mm/image/logobueno2.png){fig-align="right" width=20%}
-
-
-
+[![](https://secuah.web.uah.es/2017/wp-content/uploads/2017/02/image4.png){fig-align="left" width="20%"}](https://uah.es/es/) [![](https://imscdn.abcore.org/r/aeet.org/w300-h143/mm/image/logobueno2.png){fig-align="center" width="20%"}](https://www.aeet.org/es/) [![](images/Logo_Transmitting_Science.png){width="318"}](https://www.transmittingscience.com/courses/)
 
 ------------------------------------------------------------------------
 
-![](images/Logo_ecoinf_10.jpg){fig-align="center"}
+[![](images/Logo_ecoinf_10.jpg){fig-align="center"}](https://ecoinfaeet.github.io/website/index.html)
