@@ -1,5 +1,5 @@
 ---
-title: "Programa de las jornadas (provisional)"
+title: "Programa de las jornadas"
 ---
 
 **Jueves, 24 de octubre de 2024**
@@ -30,10 +30,72 @@ title: "Programa de las jornadas (provisional)"
 
 14:00 - 15:00. Almuerzo
 
-15:00 - 16:00. Visita guiada a la sede del rectorado de la Universidad de Alcalá <!-- llamar la semana que viene -->
+15:00 - 16:00. Visita guiada a la sede del rectorado de la Universidad de Alcalá
 
 16:00 - 19:00. Hackathon para actualizar la web del grupo de Ecoinformática
 
 **Sábado, 26 de octubre de 2024**
 
 Salida de campo a [Valverde de los Arroyos](https://es.wikiloc.com/rutas-a-pie/valverde-de-los-arroyos-cascada-de-despenalagua-9258752). Ruta matinal y regreso a Alcalá después de comer.
+
+------------------------------------------------------------------------
+
+### Comunaciones orales
+
+**Jueves, 24 de octubre de 2024**
+
+**12:00 - 14:30**
+
+12:00 - 12:20. Rodrigo Balaguer Romano. Simulación espacial del funcionamiento y la dinámica forestal a escala regional
+
+12:20 - 12:40. Marina Rodes-Blanco. La gestión de datos en un proyecto interdisplinar: la experiencia en el proyecto nacional IB-ForRes
+
+12:40 - 13:00. Adriana Tovar. Forestables: un enfoque estructurado para la armonización de Datos de Inventarios Forestales Nacionales
+
+13:00 - 13:20. Antonio J. Pérez-Luque. famexploreR: flujo de trabajo para gestión de datos de Flora Amenazada de Andalucía
+
+13:20 - 13:40. Francisco Rodríguez Sánchez. Ensamblaje de bases de datos con validación automática utilizando GitHub Actions
+
+13:40 - 14:00. Alba Márquez Rodríguez. From prediction to accuracy in the validation of BirdNET in acoustic identification of birds in local ecosystems
+
+14:00 - 14:20. Cristina Ronquillo Ferrero. Guidance in the curation criteria of species occurrence records with OCCUR app and their influence on the spatial distribution of species information
+
+14:20 - 14:30. Discusión
+
+**Viernes, 25 de octubre de 2024**
+
+**9:30 - 11:30**
+
+9:30 - 9:45. Miguel Hurtado Martínez. Coevolución entre la microbiota del suelo y *Q. ilex*: Efecto sobre la germinación de las semillas
+
+9:45 - 10:00. Elena Quintero. BayesianNetworks: una nueva herramienta para analizar interacciones ecológicas
+
+10:00 - 10:15. Agustín Carbajo Usano. Aproximación ecoinformática a la ecología microbiana a partir de la combinación de datos genéticos y de seguimiento temporal
+
+10:15 - 10:30. Antón Álvarez. LynxAutomator: aplicacion para mejorar flujos de trabajo en el seguimiento del lince ibérico
+
+10:30 - 10:45. Elena Dolores Díaz Santiago. Desentrañando la influencia microbiana en la germinación de *Quercus ilex*
+
+10:45 - 11:00. Alejandro Sánchez-Gómez. Uso de R para modelización, análisis y tratamiento de datos en hidrología
+
+11:00 - 11:15. Ignacio Ramos Gutiérrez. Novedades en el paquete ‘labeleR’: una herramienta para el mundo académico
+
+11:15 - 11:30. Darío San Segundo Molina. mappestRisk: An R package for modelling and mapping risk of pest development based on known thermal limits
+
+**12:00 - 14:00.**
+
+12:00 - 12:15. Sara Villén Pérez. The Law of the Minimum and quantile regressions bring novel opportunities to biogeography
+
+12:15 - 12:30. Miriam Bravo Hernández. Modelizando cambios en composición de la comunidad arbórea en respuesta al cambio climático a través de la integración de modelos demográficos a nivel de especie
+
+12:30 - 12:45. Mónica Gómez Vadillo. Ice age, current climate, habitat availability, and the diversity of European dragonflies and damselflies
+
+12:45 - 13:00. Cristina Grajera Antolín. Quantile regression for identifying the limiting factors of species performance based on the Law of the Minimum
+
+13:00 - 13:15. Cecilia Siliasky de Andreazzi. Integrating databases for spatial analysis and modeling of host-parasite associations
+
+13:15 - 13:30. Paloma Ruiz Benito. Introduciendo la programación aplicada en las enseñanzas de ciencias de la Universidad de Alcalá
+
+13:30 - 13:45. Guillermo Fandos. Estimation of dispersal kernels for bird species using a Bayesian approach
+
+13:45 - 14:00. Discusión
