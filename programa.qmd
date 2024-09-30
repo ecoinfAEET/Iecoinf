@@ -4,35 +4,35 @@ title: "Programa de las jornadas"
 
 **Jueves, 24 de octubre de 2024**
 
-9:00 - 10:00. Recepción de participantes y entrega de documentación
+9:00 - 10:00. Recepción de participantes y entrega de documentación *(aula 1.1)*
 
-10:00 - 11:00. Conferencia inaugural por parte de [Anabel Forte](https://anabelforte.com/)
+10:00 - 11:00. Conferencia inaugural por parte de [Anabel Forte](https://anabelforte.com/) *(aula 1.1)*
 
 11:15 - 12:00. Café
 
-12:00 - 14:30. Comunicaciones orales
+12:00 - 14:30. Comunicaciones orales *(aula 1.1)*
 
 14:30 - 16:00. Almuerzo
 
-16:00 - 17:00. Taller: introducción a Git y GitHub para el trabajo colaborativo. Impartido por [Verónica Cruz-Alonso](https://x.com/Veruitter) y [Julen Astigarraga](https://github.com/Julenasti)
+16:00 - 17:00. Taller: introducción a Git y GitHub para el trabajo colaborativo. Impartido por [Verónica Cruz-Alonso](https://x.com/Veruitter) y [Julen Astigarraga](https://github.com/Julenasti) *(salón de grados)*
 
-17:00 - 19:00. Taller: crea tu propia web profesional en GitHub. Impartido por [Francisco Rodríguez-Sánchez](https://frodriguezsanchez.net/)
+17:00 - 19:00. Taller: crea tu propia web profesional en GitHub. Impartido por [Francisco Rodríguez-Sánchez](https://frodriguezsanchez.net/) *(salón de grados)*
 
 21:00. Cena
 
 **Viernes, 25 de octubre de 2024**
 
-9:30 - 11:30. Comunicaciones orales
+9:30 - 11:30. Comunicaciones orales *(salón de grados)*
 
 11:30 - 12:00. Café
 
-12:00 - 14:00. Comunicaciones orales
+12:00 - 14:00. Comunicaciones orales *(salón de grados)*
 
 14:00 - 15:00. Almuerzo
 
 15:00 - 16:00. Visita guiada a la sede del rectorado de la Universidad de Alcalá
 
-16:00 - 19:00. Hackathon para actualizar la web del grupo de Ecoinformática
+16:00 - 19:00. Hackathon para actualizar la web del grupo de Ecoinformática *(aula 1.1)*
 
 **Sábado, 26 de octubre de 2024**
 
@@ -42,7 +42,7 @@ Salida de campo a [Valverde de los Arroyos](https://es.wikiloc.com/rutas-a-pie/v
 
 ### Comunaciones orales
 
-**Jueves, 24 de octubre de 2024**
+**Jueves, 24 de octubre de 2024** *(aula 1.1)*
 
 **12:00 - 14:30**
 
@@ -62,7 +62,7 @@ Salida de campo a [Valverde de los Arroyos](https://es.wikiloc.com/rutas-a-pie/v
 
 14:20 - 14:30. Discusión
 
-**Viernes, 25 de octubre de 2024**
+**Viernes, 25 de octubre de 2024** *(salón de grados)*
 
 **9:30 - 11:30**
 
